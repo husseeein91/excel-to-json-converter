@@ -1,0 +1,15 @@
+{
+  "name": "xcel-to-json-converter",
+  "version": "1.0.0",
+  "description": "a node.js application that reads an excel file and convert it to json with customizable fields",
+  "main": "index.js",
+  "scripts": {
+    "develop": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed Hussein",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
